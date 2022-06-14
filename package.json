@@ -7,7 +7,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon src/app",
-    "tailwind:css": "postcss /src/public/styles/tailwind.css -o /src/public/styles/style.css"
+    "start":"node src/app"
   },
   "keywords": [],
   "author": "",
